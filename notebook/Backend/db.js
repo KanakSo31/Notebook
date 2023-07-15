@@ -6,3 +6,4 @@ const connectToMongo = ()=>{
         console.log("Connected to Mongoo Successfully")
     })
 }
+module.exports = connectToMongo;
