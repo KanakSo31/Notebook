@@ -5,4 +5,4 @@ router.get('/', (req, res)=>{
 
     res.json([])
 })
-modile.exports = router
+module.exports = router
